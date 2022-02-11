@@ -98,13 +98,17 @@ Pada setiap commit diperlukan informasi user yang melakukan commit dan email use
 
 ### ***Pembuatan commit***
 1. Untuk melakukan commit, gunakan perintah “git commit -m <“pesan”>”
+
 ![Screenshot_7](https://i.ibb.co/6F0XynW/Picture7.jpg)
 
 <p>&nbsp;</p>
 
 2. Ketika menambahkan file baru atau mengedit file dalam repo, jika user tidak membuat commit untuk file tersebut, maka perubahan tidak akan ditrack/direkam.
+
 ![Screenshot_8](https://i.ibb.co/NjFmQQg/Picture8.jpg)
+
 Gambar di atas menunjukkan contoh file baru yang belum direkam (untracked) dan perubahan pada file lama yang tidak diupdate oleh Git. Untuk menambahkan kedua file sekaligus ke dalam staging area, jalankan perintah “git add .” Setelah file dimasukkan ke dalam staging area, barulah commit dapat dibuat.
+
 ![Screenshot_9](https://i.ibb.co/L0dgxSt/Picture9.jpg)
 
 <p>&nbsp;</p>
