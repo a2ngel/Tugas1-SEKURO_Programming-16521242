@@ -42,6 +42,7 @@ GitHub merupakan suatu website layanan cloud yang digunakan untuk membuat file y
 Git dan GitHub dapat digunakan secara bersamaan. Misalnya user ingin mengirimkan source code dari komputer miliknya ke website GitHub, maka user dapat melakukan push. Sebaliknya, jika user ingin mengambil source code dari GitHub, dapat dilakukan pull.
 
 Push = proses upload atau mengirimkan commit dari Git ke GitHub
+
 Pull = proses mengambil commit dari GitHub ke Git
 
 Syarat melakukan push dan pull adalah dengan membuat GitHub menjadi remote (sumber dari repo). Untuk melakukan push, clone suatu repo dari GitHub lalu pull commitnya. Sedangkan untuk melakukan push, edit dan save file lalu lakukan commit dah push.
