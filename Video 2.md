@@ -3,6 +3,7 @@
 
 <p>&nbsp;</p>
 
+## ***Penggunaan GitHub***
 Pendaftaran akun GitHub dapat dilakukan dengan mengakses website github.com lalu sign up. Setelah selesai mendaftar akun baru, buat repository dengan mengklik icon “New”.
 
 Dalam GitHub, untuk membuat file repository pengguna akan diminta untuk memasukkan nama repository yang diinginkan, deskripsi singkat dari repository, dan opsi lain yang tersedia disana.
@@ -13,9 +14,16 @@ Setelah file dalam repo dibuat, pengguna dapat mengisi atau mengedit file terseb
 
 Jika pengguna ingin memberi perubahan pada file yang sudah dibuat, pengguna dapat mengklik icon edit file. Setelah melakukan perubahan, pengguna harus menyimpannya dalam commit baru dengan cara yang sama seperti sebelumnya.
 
+<p>&nbsp;</p>
+
+## ***Melihat commit***
 Untuk melihat riwayat dari semua perubahan yang telah dilakukan pada suat file dalam repo, klik history, lalu pilih commit yang ingin dilihat.
 
 Line commit yang diberi highlight hijau berarti line tersebut ditambahkan, highlight merah berarti line tersebut dihapus, dan yang tidak ada highlight berarti tidak ada perubahan yang diberikan.
+
+<p>&nbsp;</p>
+
+## ***Komponen-komponen commit***
 
 Pada setiap commit yang dibuat, tersedia berbagai informasi, seperti,
 1.	Hash, yaitu penanda unik pada sebuah commit.
