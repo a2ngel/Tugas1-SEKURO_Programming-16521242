@@ -3,6 +3,8 @@
 
 <p>&nbsp;</p>
 
+## ***Branch***
+
 Commit-commit yang dilakukan di dalam repo akan muncul dalam tampilan branch.
 
 Dari master branch, dapat dibuat cabang yang independen. Percabangan dapat dilakukan jika seseorang ingin membuat fitur experimental baru pada repo tanpa mengubah master branch.
@@ -12,6 +14,8 @@ Pada icon master branch (main), pengguna dapat mencari branch dan atau membuat b
 Dari branch baru yang telah dibuat, dapat ditambahkan file baru dan commit baru
 
 Pada saat commit file perhatikan bahwa langsung ada opsi menambahkan ke branch yang baru dibuat dan bukan ke master branch.
+
+## ***Merge dan Pull Request***
 
 Istilah Merge digunakan saat seseorang menggabungkan commit dari sebuah branch kembali ke master branch. Cara melakukan merge adalah dengan mengklik icon “Compare & pull request” atau klik icon “New pull request” pada tab “Pull Requests”.
 
